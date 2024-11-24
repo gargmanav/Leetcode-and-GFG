@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
