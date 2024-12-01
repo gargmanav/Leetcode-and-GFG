@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
