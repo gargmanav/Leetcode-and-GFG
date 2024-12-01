@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
+| [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
