@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0047-permutations-ii) |
+| [0073-set-matrix-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 ## Backtracking
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
