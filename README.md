@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 ## Backtracking
@@ -81,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
