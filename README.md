@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0047-permutations-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
