@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -163,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
