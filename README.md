@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0047-permutations-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
