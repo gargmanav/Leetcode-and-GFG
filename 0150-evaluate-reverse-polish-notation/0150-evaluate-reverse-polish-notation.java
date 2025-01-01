@@ -7,7 +7,16 @@ class Solution {
            return false;
         }
     }
+    
+
+
     public int evalRPN(String[] tokens) {
+         Map<String, BiFunction<Integer, Integer, Integer>> operations = new HashMap<>();
+        operations.put("+",(a,b)->a+b);
+        operations.put("-",(a,b)->a-b);
+        operations.put("/",(a,b)->a/b);
+        operations.put("*",(a,b)->a*b);
+
         Stack<Integer> st = new Stack<>();
         for(String str : tokens){
             if(isNumeric(str)){
@@ -15,20 +24,8 @@ class Solution {
             }else{
                 int b = st.pop();
                 int a = st.pop();
-                switch (str){
-                    case "+":
-                    st.push(a+b);
-                    break;
-                    case "-":
-                    st.push(a-b);
-                    break;
-                    case "*":
-                    st.push(a*b);
-                    break;
-                    case "/":
-                    st.push(a/b);
-                    break;
-                }
+                int res = operations.get(str).apply(a,b);
+                st.push(res);
             }
         }
        return st.pop();
