@@ -39,7 +39,7 @@ class Solution {
             for(int i = 0;i<4;i++){
                 int nrow = r + drow[i];
                 int ncol = c + dcol[i];
-                if(nrow >=0 && nrow < n && ncol >= 0 && ncol < m && vis[nrow][ncol] != 2 && grid[nrow][ncol] == 1){
+                if(nrow > -1 && nrow < n && ncol > -1 && ncol < m && vis[nrow][ncol] != 2 && grid[nrow][ncol] == 1){
                     qu.add(new Pair(nrow,ncol,tm + 1));
                     count++;
                     vis[nrow][ncol] = 2;
