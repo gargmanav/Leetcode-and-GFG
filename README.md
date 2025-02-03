@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
+| [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
+| [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
