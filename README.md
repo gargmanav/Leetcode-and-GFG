@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0406-queue-reconstruction-by-height) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
