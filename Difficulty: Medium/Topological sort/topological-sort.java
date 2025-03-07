@@ -55,29 +55,32 @@ class Main {
 
 
 class Solution {
-    static void DFS(ArrayList<ArrayList<Integer>> adj,int u,boolean[] visited,Stack<Integer> stack){
-        visited[u] = true;
-        for(int v : adj.get(u)){
-            if(visited[v] == false){
-                DFS(adj,v,visited,stack);
-            }
-        }
-        stack.push(u);
-    }
     // Function to return list containing vertices in Topological order.
     static ArrayList<Integer> topologicalSort(ArrayList<ArrayList<Integer>> adj) {
         int n = adj.size();
-        ArrayList<Integer> res = new ArrayList<>();
-        boolean[] visited = new boolean[n];
-        Stack<Integer> stack = new Stack<>();
-        for(int i = 0;i<n;i++){
-            if(visited[i] == false){
-                DFS(adj,i,visited,stack);
+        Queue<Integer> que = new LinkedList<>();
+        ArrayList<Integer> result = new ArrayList<>();
+        int[] indegree = new int[n];
+        for(int u = 0;u<n;u++){
+            for(int v : adj.get(u)){
+                indegree[v] = indegree[v] + 1;
             }
         }
-        while(!stack.isEmpty()){
-            res.add(stack.pop());
+        for(int i = 0;i<n;i++){
+            if(indegree[i] == 0){
+                que.add(i);
+            }
         }
-        return res;
+        while(!que.isEmpty()){
+            int u = que.poll();
+            result.add(u);
+            for(int v : adj.get(u)){
+                indegree[v] = indegree[v] - 1;
+                if(indegree[v] == 0){
+                    que.add(v);
+                }
+            }
+        }
+        return result;
     }
 }
