@@ -1,52 +1,56 @@
-class Pair{
-    int row;
-    int col;
-    int tm;
-    Pair(int row,int col,int tm){
-        this.row = row;
-        this.col = col;
-        this.tm = tm;
-    }
-}
 class Solution {
+    int[][] directions = {
+        {-1,0},{1,0},{0,-1},{0,1}
+    };
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        Queue<Pair> qu = new LinkedList<>();
-        int[][] vis = new int[n][m];
-        int freshCount = 0;
+        
+        int freshOranges = 0;
+
+        Queue<Pair> que = new LinkedList<>();
         for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
+            for(int j = 0;j < m;j++){
                 if(grid[i][j] == 2){
-                    qu.add(new Pair(i,j,0));
-                    vis[i][j] = 2;
-                }else{
-                    vis[i][j] = 0;
-                }
-                if(grid[i][j] == 1)freshCount++;
-            }
-        }
-        int tm = 0;
-        int drow[] = {-1,0,+1,0};
-        int dcol[] = {0,1,0,-1};
-        int count = 0;
-        while(!qu.isEmpty()){
-            int r = qu.peek().row;
-            int c = qu.peek().col;
-            int t  = qu.peek().tm;
-            tm = Math.max(tm,t);
-            qu.remove();
-            for(int i = 0;i<4;i++){
-                int nrow = r + drow[i];
-                int ncol = c + dcol[i];
-                if(nrow > -1 && nrow < n && ncol > -1 && ncol < m && vis[nrow][ncol] != 2 && grid[nrow][ncol] == 1){
-                    qu.add(new Pair(nrow,ncol,tm + 1));
-                    count++;
-                    vis[nrow][ncol] = 2;
+                    que.add(new Pair(i,j));
+                }else if(grid[i][j] == 1){
+                    freshOranges++;
                 }
             }
         }
-        if(count != freshCount)return -1;
-        return tm;
+        if(freshOranges == 0)return 0;
+        int minutes = 0;
+        while(!que.isEmpty()){
+            
+           int size = que.size();
+           while(size-- > 0){
+              Pair curr = que.poll();
+              int i = curr.i;
+              int j = curr.j;
+              for(int[] dir : directions){
+                 int newI = i + dir[0];
+                 int newJ = j + dir[1];
+
+                 if(newI >= 0 && newI < n && newJ >= 0 && newJ < m && grid[newI][newJ] == 1){
+                    grid[newI][newJ] = 2;
+                    que.add(new Pair(newI,newJ));
+                    freshOranges--;
+                    
+                 }
+              }
+               
+           }
+           minutes++;
+
+        }
+        return (freshOranges == 0) ? minutes - 1 : -1;
+    }
+}
+
+class Pair {
+    int i,j;
+    public Pair(int i,int j){
+        this.i = i;
+        this.j = j;
     }
 }
