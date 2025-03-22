@@ -14,10 +14,9 @@ class Solution {
         int group = 0;
         boolean[] visited = new boolean[n];
         for(int i = 0;i<n;i++){
-            if(visited[i] == false){
-                dfs(stones,visited,i);
+            if(visited[i] == true)continue;
+            dfs(stones,visited,i);
                 group++;
-            }
         }
         return n-group;
     }
