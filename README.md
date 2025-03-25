@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
 |  |
 | ------- |
@@ -391,9 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
