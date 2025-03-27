@@ -67,40 +67,29 @@ class iPair {
 
 // User function Template for Java
 class Solution {
-    // Function to find the shortest distance of all the vertices
-    // from the source vertex src.
+    
     ArrayList<Integer> dijkstra(ArrayList<ArrayList<iPair>> adj, int src) {
-        int n = adj.size();
+        PriorityQueue<iPair> pq = new PriorityQueue<>(Comparator.comparingInt(p -> p.first));
+        ArrayList<Integer> result = new ArrayList<>();
+        for(int i = 0;i<adj.size();i++){
+            result.add(Integer.MAX_VALUE);
+        }
+        result.set(src,0);
         
-        // Min-heap based on distance
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> 
-            Integer.compare(a[0], b[0])
-        );
-
-        // Initialize distances with INF
-        ArrayList<Integer> result = new ArrayList<>(Collections.nCopies(n, Integer.MAX_VALUE));
-        result.set(src, 0);
-        pq.add(new int[]{0, src}); // {distance, node}
-
-        while (!pq.isEmpty()) {
-            int[] temp = pq.poll();
-            int d = temp[0]; // Distance
-            int node = temp[1]; // Node
-            
-            // Skip if the popped distance is outdated
-            if (d > result.get(node)) continue;
-
-            // Traverse neighbors
-            for (iPair v : adj.get(node)) {
-    int neighbor = v.first;   // Destination node
-    int weight = v.second;    // Edge weight
-    int newDist = d + weight;
-
-    if (newDist < result.get(neighbor)) {
-        result.set(neighbor, newDist);
-        pq.add(new int[]{newDist, neighbor});
-    }
-}
+        pq.add(new iPair(0,src));
+        
+        while(!pq.isEmpty()){
+            iPair temp = pq.poll();
+            int dist = temp.first;
+            int Node = temp.second;
+            for(iPair u : adj.get(Node)){
+                int N = u.first;
+                int d = u.second;
+                if(d + dist < result.get(N)){
+                    result.set(N,d + dist);
+                    pq.add(new iPair(d+dist,N));
+                }
+            }
         }
         return result;
     }
