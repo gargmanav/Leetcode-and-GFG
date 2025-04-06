@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
+| [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -197,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
