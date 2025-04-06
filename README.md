@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
