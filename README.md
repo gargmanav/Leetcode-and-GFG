@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
