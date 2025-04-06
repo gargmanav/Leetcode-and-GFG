@@ -8,37 +8,36 @@ class Solution {
         {{0, -1}, {-1, 0}},    // type 5
         {{0, 1}, {-1, 0}}      // type 6
     };
-
     public boolean hasValidPath(int[][] grid) {
-        int m = grid.length, n = grid[0].length;
-        boolean[][] visited = new boolean[m][n];
-        Queue<int[]> q = new LinkedList<>();
-        q.offer(new int[]{0, 0});
+        int n = grid.length;
+        int m = grid[0].length;
+        Queue<int[]> que = new LinkedList<>();
+        boolean[][] visited = new boolean[n][m];
+        que.add(new int[]{0,0});
         visited[0][0] = true;
+        
+        while(!que.isEmpty()){
+            int[] temp = que.poll();
+            int i = temp[0],j = temp[1];
+            if (i == n - 1 && j == m - 1) return true;
+            int currtype = grid[i][j];
 
-        while (!q.isEmpty()) {
-            int[] curr = q.poll();
-            int i = curr[0], j = curr[1];
-            if (i == m - 1 && j == n - 1) return true;
+            for(int[] dir : DIRS[currtype]){
+                int ni = dir[0] + i;
+                int nj = dir[1] + j;
 
-            int currType = grid[i][j];
-
-            for (int[] dir : DIRS[currType]) {
-                int ni = i + dir[0];
-                int nj = j + dir[1];
-
-                if (ni >= 0 && ni < m && nj >= 0 && nj < n && !visited[ni][nj]) {
-                    int nextType = grid[ni][nj];
-                    for (int[] rev : DIRS[nextType]) {
-                        if (ni + rev[0] == i && nj + rev[1] == j) {
+                if(ni >= 0 && ni < n && nj >= 0 && nj < m && !visited[ni][nj]){
+                    int nextype = grid[ni][nj];
+                    for(int[] arr : DIRS[nextype]){
+                        if(i == ni + arr[0] && j == nj + arr[1]){
                             visited[ni][nj] = true;
-                            q.offer(new int[]{ni, nj});
+                            que.add(new int[]{ni,nj});
                         }
                     }
                 }
             }
-        }
 
+        }
         return false;
     }
 }
