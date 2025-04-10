@@ -1,33 +1,36 @@
 class Solution {
-    public static void dfs(HashMap<Integer,ArrayList<Integer>> adjMap,int u,boolean[] vis){
-          vis[u] = true;
-          for(int v : adjMap.get(u)){
-            if(vis[v] == false){
-                dfs(adjMap,v,vis);
-            }
-          }
+    private void dfs(ArrayList<ArrayList<Integer>> adj,boolean[] visited,int index){
+      visited[index] = true;
+
+      for(int v : adj.get(index)){
+        if(visited[v] == false){
+            dfs(adj,visited,v);
+        }
+      }
     }
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        HashMap<Integer,ArrayList<Integer>> adjMap = new HashMap<>();
-        
-        for(int i = 0;i<n;i++){
-            adjMap.put(i,new ArrayList<>());
-            for(int j = 0;j<n;j++){
-                if(isConnected[i][j] == 1 && i != j){
-                    adjMap.get(i).add(j);
-                }
-            }
-        }
+    ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+    
+    for (int i = 0; i < n; i++) {
+        adj.add(new ArrayList<>());
+    }
 
-        boolean[] vis = new boolean[n];
-        int provinceCount = 0;
-        for(int i = 0;i<n;i++){
-            if(vis[i] == false){
-                provinceCount++;
-                dfs(adjMap,i,vis);
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (isConnected[i][j] == 1 && i != j) {
+                adj.get(i).add(j);
             }
         }
-        return provinceCount;
+    }
+    boolean[] visited = new boolean[adj.size()];
+    int count = 0;
+    for(int i = 0;i<adj.size();i++){
+        if(visited[i] == false){
+            dfs(adj,visited,i);
+            count++;
+        }
+    }
+    return count;
     }
 }
