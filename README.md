@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0118-pascals-triangle) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
