@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0118-pascals-triangle) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
