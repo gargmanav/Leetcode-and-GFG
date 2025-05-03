@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0406-queue-reconstruction-by-height) |
+| [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Union Find
