@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0118-pascals-triangle) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0145-binary-tree-postorder-traversal) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 ## Design
