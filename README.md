@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1039-find-the-town-judge) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0371-sum-of-two-integers) |
+| [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0688-knight-probability-in-chessboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [1250-longest-common-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -519,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0319-bulb-switcher) |
+## Bitmask
+|  |
+| ------- |
+| [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 <!---LeetCode Topics End-->
