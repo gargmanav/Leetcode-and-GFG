@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
+| [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0688-knight-probability-in-chessboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
+| [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0516-longest-palindromic-subsequence) |
+| [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
