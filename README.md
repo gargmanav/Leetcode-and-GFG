@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0516-longest-palindromic-subsequence) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
