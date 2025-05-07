@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
