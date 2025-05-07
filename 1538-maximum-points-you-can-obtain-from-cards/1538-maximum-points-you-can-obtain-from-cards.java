@@ -1,24 +1,18 @@
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
         int n = cardPoints.length;
-        int windowSize = n - k;
-
-        int total = 0;
-        for (int point : cardPoints) {
-            total += point;
+        if(k > n)return 0;
+        int PointSum = Arrays.stream(cardPoints).sum();
+        int currentWindowSize = n - k;
+        int windowsum = 0;
+        for(int i = 0;i<currentWindowSize;i++){
+          windowsum += cardPoints[i];
         }
-
-        int minSubarraySum = 0;
-        for (int i = 0; i < windowSize; i++) {
-            minSubarraySum += cardPoints[i];
+        int minwindowsum = windowsum;
+        for(int i = currentWindowSize;i<n;i++){
+            windowsum = windowsum + cardPoints[i] - cardPoints[i - currentWindowSize];
+            minwindowsum = Math.min(minwindowsum,windowsum);
         }
-
-        int currentSum = minSubarraySum;
-        for (int i = windowSize; i < n; i++) {
-            currentSum += cardPoints[i] - cardPoints[i - windowSize];
-            minSubarraySum = Math.min(minSubarraySum, currentSum);
-        }
-
-        return total - minSubarraySum;
+        return PointSum - minwindowsum;
     }
 }
