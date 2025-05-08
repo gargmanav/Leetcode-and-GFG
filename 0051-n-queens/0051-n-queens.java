@@ -1,54 +1,53 @@
-import java.util.*;
-
 class Solution {
-    public List<List<String>> solveNQueens(int n) {
-        List<List<String>> result = new ArrayList<>();
-        char[][] board = new char[n][n];
-
-        // Initialize board with '.'
-        for (char[] row : board) {
-            Arrays.fill(row, '.');
-        }
-
-        boolean[] cols = new boolean[n];
-        boolean[] diag1 = new boolean[2 * n - 1]; // row - col + (n - 1)
-        boolean[] diag2 = new boolean[2 * n - 1]; // row + col
-
-        backtrack(0, board, cols, diag1, diag2, result);
-        return result;
-    }
-
-    private void backtrack(int row, char[][] board, boolean[] cols, boolean[] diag1, boolean[] diag2, List<List<String>> result) {
-        int n = board.length;
-        if (row == n) {
-            result.add(constructBoard(board));
+    private int N;
+    private List<List<String>> result = new ArrayList<>();
+    private void solve(char[][] board,int row){
+        if(row >= N){
+            List<String> temp = new ArrayList<>();
+            for (char[] r : board) {
+                temp.add(new String(r));
+            }
+            result.add(temp);
             return;
         }
-
-        for (int col = 0; col < n; col++) {
-            int d1 = row - col + n - 1;
-            int d2 = row + col;
-
-            if (cols[col] || diag1[d1] || diag2[d2]) continue;
-
-            // Place the queen
-            board[row][col] = 'Q';
-            cols[col] = diag1[d1] = diag2[d2] = true;
-
-            // Recurse
-            backtrack(row + 1, board, cols, diag1, diag2, result);
-
-            // Backtrack
-            board[row][col] = '.';
-            cols[col] = diag1[d1] = diag2[d2] = false;
+        for(int i = 0;i<N;i++){
+            if(isValid(board,row,i)){
+                board[row][i] = 'Q';
+                solve(board,row + 1);
+                board[row][i] = '.';
+            }
         }
+
     }
-
-    private List<String> constructBoard(char[][] board) {
-        List<String> result = new ArrayList<>();
-        for (char[] row : board) {
-            result.add(new String(row));
+    private boolean isValid(char[][] board,int row,int col){
+        //upward
+        for(int i = row - 1;i >= 0;i--){
+          if(board[i][col] == 'Q'){
+            return false;
+          }
         }
+       //left diagonal
+       for(int i = row - 1,j = col - 1;i >= 0 && j >= 0;i--,j--){
+        if(board[i][j] == 'Q'){
+            return false;
+        }
+       }
+
+       //right diagonal
+       for(int i = row - 1,j = col + 1;i >= 0 && j < N;i--,j++){
+        if(board[i][j] == 'Q'){
+            return false;
+        }
+       }
+      return true;
+    }
+    public List<List<String>> solveNQueens(int n) {
+        N = n;
+        char[][] board = new char[n][n];
+        for(char[] arr: board){
+            Arrays.fill(arr,'.');
+        }
+        solve(board,0);
         return result;
     }
 }
