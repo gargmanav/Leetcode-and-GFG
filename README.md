@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0319-bulb-switcher) |
+| [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
