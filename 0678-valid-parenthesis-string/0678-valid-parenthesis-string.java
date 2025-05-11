@@ -1,9 +1,8 @@
 class Solution {
     public boolean checkValidString(String s) {
-        Stack<Integer> openStack = new Stack<>();
-        Stack<Integer> starStack = new Stack<>();
+        Stack<Integer> openStack = new Stack<>(); // indexes of '('
+        Stack<Integer> starStack = new Stack<>(); // indexes of '*'
 
-        // Step 1: Traverse the string
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
@@ -11,7 +10,7 @@ class Solution {
                 openStack.push(i);
             } else if (ch == '*') {
                 starStack.push(i);
-            } else if (ch == ')') {
+            } else {
                 if (!openStack.isEmpty()) {
                     openStack.pop();
                 } else if (!starStack.isEmpty()) {
@@ -22,16 +21,15 @@ class Solution {
             }
         }
 
-        // Step 2: Match leftover '(' with '*' from the right
+        // Now match remaining '(' with '*'
         while (!openStack.isEmpty() && !starStack.isEmpty()) {
             if (openStack.peek() > starStack.peek()) {
-                return false; // '(' is after '*', invalid
+                return false; // '*' comes before '(', not valid
             }
             openStack.pop();
             starStack.pop();
         }
 
-        // If there are unmatched '(', invalid
-        return openStack.isEmpty();
+        return openStack.isEmpty(); // if any '(' left, it's invalid
     }
 }
