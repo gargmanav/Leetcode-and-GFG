@@ -1,27 +1,27 @@
 class Solution {
     public int numSquares(int n) {
-         Queue<Integer> queue = new LinkedList<>();
-    Set<Integer> visited = new HashSet<>();
-    
-    queue.add(0);
-    visited.add(0);
-    int steps = 0;
+        Queue<Integer> que = new LinkedList<>();
+        Set<Integer> visited = new HashSet<>();
+        int level = 0;
 
-    while (!queue.isEmpty()) {
-        int size = queue.size();
-        steps++;
-        for (int i = 0; i < size; i++) {
-            int curr = queue.poll();
-            for (int j = 1; j * j + curr <= n; j++) {
-                int next = curr + j * j;
-                if (next == n) return steps;
-                if (!visited.contains(next)) {
+        que.add(n);
+        visited.add(n);
+        while(!que.isEmpty()){
+            level++;
+            int size = que.size();
+            for(int i = 0;i<size;i++){
+               int temp = que.poll();
+               for(int j = 1;j * j <= temp;j++){
+                int next = temp - j * j;
+                if(next == 0)return level;
+                if(!visited.contains(next)){
+                    que.add(next);
                     visited.add(next);
-                    queue.add(next);
                 }
+               }
             }
+          
         }
-    }
-    return -1;
+        return -1;
     }
 }
