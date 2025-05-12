@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
+| [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
+| [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
