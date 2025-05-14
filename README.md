@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
+| [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1250-longest-common-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
