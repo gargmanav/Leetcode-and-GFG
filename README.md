@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0040-combination-sum-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
