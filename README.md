@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Indexed Tree
