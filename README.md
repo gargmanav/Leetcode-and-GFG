@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0688-knight-probability-in-chessboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
