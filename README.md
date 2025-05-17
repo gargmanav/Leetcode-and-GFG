@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
