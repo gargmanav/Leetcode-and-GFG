@@ -1,9 +1,7 @@
 class Solution {
     boolean checkTriangle(int[] nums){
-        if((nums[0] + nums[1]) <= nums[2])return false;
-        else if((nums[0] + nums[2]) <= nums[1])return false;
-        else if((nums[1] + nums[2]) <= nums[0])return false;
-        return true;
+        Arrays.sort(nums);
+        return (nums[0] + nums[1] > nums[2]);
     }
     public String triangleType(int[] nums) {
         if(checkTriangle(nums)){
