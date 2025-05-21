@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
