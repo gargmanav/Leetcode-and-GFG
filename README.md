@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1500-count-largest-group) |
 ## Backtracking
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [3321-type-of-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
