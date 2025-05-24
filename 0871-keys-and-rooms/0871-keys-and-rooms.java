@@ -1,23 +1,24 @@
 class Solution {
-    public void dfs(List<List<Integer>> rooms,boolean[] visited,int index){
-        if(visited[index] == true)return;
-       visited[index] = true;
-       for(int arr : rooms.get(index)){
-        //  for(int i : arr){
-            dfs(rooms,visited,arr);
-        //  }
-       }
-    }
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n = rooms.size();
         boolean[] visited = new boolean[n];
-        dfs(rooms,visited,0);
-        int count = 0;
-        for(int i = 0;i<n;i++){
-            if(visited[i] == true){
-               count++;
+        Queue<Integer> que = new LinkedList<>();
+        que.add(0);
+        visited[0] = true;
+        while(!que.isEmpty()){
+            int index = que.poll();
+            for(int num : rooms.get(index)){
+                if(!visited[num]){
+                    que.add(num);
+                    visited[num] = true;
+                }
             }
         }
-        return count==n;
+        for(int i = 0;i<n;i++){
+            if(visited[i] == false){
+                return false;
+            }
+        }
+        return true;
     }
 }
