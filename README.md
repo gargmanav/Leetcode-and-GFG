@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0516-longest-palindromic-subsequence) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
