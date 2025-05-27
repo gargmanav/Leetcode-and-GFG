@@ -1,16 +1,14 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
-         int num1 = 0; // sum of numbers not divisible by m
-        int num2 = 0; // sum of numbers divisible by m
-
-        for (int i = 1; i <= n; i++) {
-            if (i % m == 0) {
-                num2 += i;
-            } else {
-                num1 += i;
+        int nsum = 0;
+        int msum = 0;
+        for(int i = 1;i<=n;i++){
+            if(i % m != 0){
+                nsum += i;
+            }else{
+                msum += i;
             }
         }
-
-        return num1 - num2;
+        return nsum - msum;
     }
 }
