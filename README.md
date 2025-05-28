@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
