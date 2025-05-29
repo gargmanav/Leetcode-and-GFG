@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [1666-make-the-string-great](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1666-make-the-string-great) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
