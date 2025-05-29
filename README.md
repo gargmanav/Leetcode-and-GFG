@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0975-range-sum-of-bst) |
@@ -792,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1300-critical-connections-in-a-network) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
