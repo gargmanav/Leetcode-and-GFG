@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 | [1666-make-the-string-great](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -811,4 +814,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
