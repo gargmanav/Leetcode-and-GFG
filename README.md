@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0792-binary-search) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
+| [0830-largest-triangle-area](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
+| [0830-largest-triangle-area](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
@@ -825,4 +827,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
