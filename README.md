@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0152-maximum-product-subarray) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
