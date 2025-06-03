@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3194-find-words-containing-character](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3321-type-of-triangle) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
