@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0575-distribute-candies) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0792-binary-search) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
