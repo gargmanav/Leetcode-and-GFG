@@ -1,23 +1,38 @@
 class Solution {
-    public int longestStrChain(String[] words) {
-        // Sort words based on length
-        Arrays.sort(words, Comparator.comparingInt(String::length));
-        
-        Map<String, Integer> dp = new HashMap<>();
-        int maxLen = 1;
+    int[][] dp;
 
-        for (String word : words) {
-            int best = 0;
-            // Try removing one character at each position
-            for (int i = 0; i < word.length(); i++) {
-                String prev = word.substring(0, i) + word.substring(i + 1);
-                int prevLen = dp.getOrDefault(prev, 0);
-                best = Math.max(best, prevLen + 1);
+    public boolean isPrec(String first, String second) {
+        int N = first.length();
+        int M = second.length();
+        if (N >= M || M - N != 1) return false;
+        int i = 0, j = 0;
+        while (i < N && j < M) {
+            if (first.charAt(i) == second.charAt(j)) {
+                i++;
             }
-            dp.put(word, best);
-            maxLen = Math.max(maxLen, best);
+            j++;
+        }
+        return i == N;
+    }
+
+    public int LIS(int prev, int curr, String[] words) {
+        if (curr >= words.length) return 0;
+
+        if (dp[prev + 1][curr] != -1) return dp[prev + 1][curr];
+
+        int take = 0;
+        if (prev == -1 || isPrec(words[prev], words[curr])) {
+            take = 1 + LIS(curr, curr + 1, words);
         }
 
-        return maxLen;
+        int skip = LIS(prev, curr + 1, words);
+        return dp[prev + 1][curr] = Math.max(take, skip);
     }
-} 
+
+    public int longestStrChain(String[] words) {
+        Arrays.sort(words, (a, b) -> a.length() - b.length());
+        dp = new int[words.length + 1][words.length];
+        for (int[] row : dp) Arrays.fill(row, -1);
+        return LIS(-1, 0, words);
+    }
+}
