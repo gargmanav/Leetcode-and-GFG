@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3194-find-words-containing-character) |
 | [3207-make-three-strings-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3207-make-three-strings-equal) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
