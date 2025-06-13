@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [0830-largest-triangle-area](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -679,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
@@ -754,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
