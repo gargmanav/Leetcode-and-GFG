@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -919,4 +921,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0826-soup-servings) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
