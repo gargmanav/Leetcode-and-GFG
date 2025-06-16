@@ -1,56 +1,45 @@
 class Solution {
-    int[][] directions = {
-        {-1,0},{1,0},{0,-1},{0,1}
-    };
+    private int[][] directions = {{0,1},{1,0},{0,-1},{-1,0}};
+
     public int orangesRotting(int[][] grid) {
+        int freshOranges = 0;
+        int rottenOranges = 0;
         int n = grid.length;
         int m = grid[0].length;
-        
-        int freshOranges = 0;
-
-        Queue<Pair> que = new LinkedList<>();
+        Queue<int[]> que = new LinkedList<>();
         for(int i = 0;i<n;i++){
-            for(int j = 0;j < m;j++){
-                if(grid[i][j] == 2){
-                    que.add(new Pair(i,j));
-                }else if(grid[i][j] == 1){
+            for(int j = 0;j<m;j++){
+                if(grid[i][j] == 1){
                     freshOranges++;
+                }else if(grid[i][j] == 2){
+                    que.add(new int[]{i,j});
                 }
             }
         }
-        if(freshOranges == 0)return 0;
-        int minutes = 0;
-        while(!que.isEmpty()){
-            
-           int size = que.size();
-           while(size-- > 0){
-              Pair curr = que.poll();
-              int i = curr.i;
-              int j = curr.j;
-              for(int[] dir : directions){
-                 int newI = i + dir[0];
-                 int newJ = j + dir[1];
-
-                 if(newI >= 0 && newI < n && newJ >= 0 && newJ < m && grid[newI][newJ] == 1){
-                    grid[newI][newJ] = 2;
-                    que.add(new Pair(newI,newJ));
+       
+       int time = 0;
+       while(!que.isEmpty()){
+         int size = que.size();
+         boolean flag = false;
+         for(int i = 0;i < size;i++){
+            int[] arr = que.poll();
+            int a = arr[0];
+            int b = arr[1];
+            for(int[] newarr : directions){
+                int na = a + newarr[0];
+                int nb = b + newarr[1];
+                if(na >= 0 && na < n && nb >= 0 && nb < m && grid[na][nb] == 1){
+                    que.add(new int[]{na,nb});
+                    grid[na][nb] = 2;
                     freshOranges--;
-                    
-                 }
-              }
-               
-           }
-           minutes++;
-
-        }
-        return (freshOranges == 0) ? minutes - 1 : -1;
+                    flag = true;
+                }
+            }
+            
+         }
+         if(flag)time++;
     }
+    return freshOranges == 0 ? time : -1;
 }
 
-class Pair {
-    int i,j;
-    public Pair(int i,int j){
-        this.i = i;
-        this.j = j;
-    }
 }
