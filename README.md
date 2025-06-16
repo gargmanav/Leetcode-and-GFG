@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
@@ -690,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
@@ -767,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
