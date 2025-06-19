@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0917-boats-to-save-people) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1039-find-the-town-judge) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0881-loud-and-rich) |
+| [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1073-number-of-enclaves) |
