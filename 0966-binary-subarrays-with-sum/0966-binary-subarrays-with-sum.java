@@ -1,23 +1,25 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-         Map<Integer, Integer> prefixSumCount = new HashMap<>();
-        prefixSumCount.put(0, 1); // to handle subarrays starting from index 0
+        return atMost(nums, goal) - atMost(nums, goal - 1);
+    }
 
-        int currSum = 0;
-        int count = 0;
+    private int atMost(int[] nums, int goal) {
+        if (goal < 0) return 0;
 
-        for (int num : nums) {
-            currSum += num;
+        int left = 0, sum = 0, count = 0;
 
-            // Check if there's a prefix sum such that currSum - prefix = goal
-            if (prefixSumCount.containsKey(currSum - goal)) {
-                count += prefixSumCount.get(currSum - goal);
+        for (int right = 0; right < nums.length; right++) {
+            sum += nums[right];
+
+            while (sum > goal) {
+                sum -= nums[left];
+                left++;
             }
 
-            // Update the map with current prefix sum count
-            prefixSumCount.put(currSum, prefixSumCount.getOrDefault(currSum, 0) + 1);
+            count += right - left + 1;
         }
 
         return count;
     }
+
 }
