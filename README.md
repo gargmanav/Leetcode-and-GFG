@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Search
