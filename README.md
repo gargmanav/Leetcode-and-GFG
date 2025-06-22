@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1666-make-the-string-great) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3194-find-words-containing-character) |
 | [3207-make-three-strings-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3207-make-three-strings-equal) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
