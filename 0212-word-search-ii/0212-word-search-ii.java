@@ -1,63 +1,79 @@
+class TrieNode{
+    TrieNode[] children;
+    boolean isEnd;
+    String word;
+    TrieNode(){
+      children = new TrieNode[26];
+      isEnd = false;
+      word = "";
+    }
+}
 class Solution {
-    private int n, m;
-    private int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-    private Set<String> result = new HashSet<>();
+    private TrieNode root = new TrieNode();
+    int m,n;
+    List<String> result = new ArrayList<>();
+    private int[][] directions = {{0,1},{1,0},{0,-1},{-1,0}};
+    private boolean search(String str){
+      TrieNode curr = root;
+      for(char ch : str.toCharArray()){
+        int index = ch - 'a';
+        if(curr.children[index] == null)return false;
+        curr = curr.children[index];
+      }
+      return curr.isEnd;
+    }
+    private void insert(String str){
+        TrieNode curr = root;
+        for(char ch : str.toCharArray()){
+            int index = ch - 'a';
+            if(curr.children[index] == null){
+                curr.children[index] = new TrieNode();
+            }
+            curr = curr.children[index];
+        }
+        curr.isEnd = true;
+        curr.word = str;
+    }
+    private void checkword(int i,int j,char[][] board,TrieNode curr){
+       if (i < 0 || i >= m || j < 0 || j >= n || board[i][j] == '$') return;
 
-    class TrieNode {
-        Map<Character, TrieNode> children = new HashMap<>();
-        String word = null;  // store complete word at the end node
+    char ch = board[i][j];
+    int index = ch - 'a';
+
+    if (curr.children[index] == null) return;
+
+    curr = curr.children[index]; // ✅ move to next node
+
+    if (curr.isEnd) {
+        result.add(curr.word);
+        curr.isEnd = false; // avoid duplicate
     }
 
-    private TrieNode buildTrie(String[] words) {
-        TrieNode root = new TrieNode();
-        for (String word : words) {
-            TrieNode curr = root;
-            for (char ch : word.toCharArray()) {
-                curr.children.putIfAbsent(ch, new TrieNode());
-                curr = curr.children.get(ch);
-            }
-            curr.word = word;  // mark complete word
-        }
-        return root;
+    board[i][j] = '$';
+
+    for (int[] dir : directions) {
+        int ni = i + dir[0];
+        int nj = j + dir[1];
+        checkword(ni, nj, board, curr);
     }
 
-    private void dfs(char[][] board, int i, int j, TrieNode node, boolean[][] visited) {
-        char ch = board[i][j];
-        TrieNode curr = node.children.get(ch);
-        if (curr == null) return;
-
-        if (curr.word != null) {
-            result.add(curr.word);  // found a valid word
-            curr.word = null;       // prevent duplicates
-        }
-
-        visited[i][j] = true;
-
-        for (int[] dir : directions) {
-            int ni = i + dir[0], nj = j + dir[1];
-            if (ni >= 0 && ni < n && nj >= 0 && nj < m && !visited[ni][nj]) {
-                dfs(board, ni, nj, curr, visited);
-            }
-        }
-
-        visited[i][j] = false;
+    board[i][j] = ch; // backtrack
     }
 
     public List<String> findWords(char[][] board, String[] words) {
-        n = board.length;
-        m = board[0].length;
-
-        TrieNode root = buildTrie(words);
-        boolean[][] visited = new boolean[n][m];
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (root.children.containsKey(board[i][j])) {
-                    dfs(board, i, j, root, visited);
+        m = board.length;
+        n = board[0].length;
+        for(String word : words){
+           insert(word);
+        }
+        for(int i = 0;i<m;i++){
+            for(int j = 0;j<n;j++){
+                char ch = board[i][j];
+                if(root.children[ch - 'a'] != null){
+                    checkword(i,j,board,root);
                 }
             }
         }
-
-        return new ArrayList<>(result);
+        return result;
     }
 }
