@@ -1,59 +1,53 @@
 class WordDictionary {
-
-    // Trie Node class
-    private class TrieNode {
+    class TrieNode{
         TrieNode[] children = new TrieNode[26];
         boolean isEnd = false;
     }
 
     private TrieNode root;
-
     public WordDictionary() {
-        root = new TrieNode(); // Initialize root node
+        root = new TrieNode();
     }
-
-    // Add word into Trie
+    
     public void addWord(String word) {
-        TrieNode node = root;
-
-        for (char ch : word.toCharArray()) {
+        TrieNode curr = root;
+        for(char ch : word.toCharArray()){
             int index = ch - 'a';
-
-            if (node.children[index] == null) {
-                node.children[index] = new TrieNode(); // create node if missing
+            if(curr.children[index] == null){
+                curr.children[index] = new TrieNode();
             }
-
-            node = node.children[index];
+            curr = curr.children[index];
         }
-
-        node.isEnd = true; // mark end of word
+        curr.isEnd = true;
     }
-
-    // Search with support for '.'
+    
     public boolean search(String word) {
-        return searchHelper(word, 0, root);
+        return searchHelper(word.toCharArray(), 0, root);
     }
 
-    private boolean searchHelper(String word, int index, TrieNode node) {
-        if (node == null) return false;
+    public boolean searchHelper(char[] word,int pos,TrieNode node){
+      if (pos == word.length) return node.isEnd;
 
-        if (index == word.length()) {
-            return node.isEnd;
-        }
-
-        char ch = word.charAt(index);
-
+        char ch = word[pos];
         if (ch == '.') {
-            // try all possible children
             for (TrieNode child : node.children) {
-                if (child != null && searchHelper(word, index + 1, child)) {
+                if (child != null && searchHelper(word, pos + 1, child)) {
                     return true;
                 }
             }
             return false;
         } else {
-            int pos = ch - 'a';
-            return searchHelper(word, index + 1, node.children[pos]);
+            int index = ch - 'a';
+            TrieNode child = node.children[index];
+            if (child == null) return false;
+            return searchHelper(word, pos + 1, child);
         }
     }
 }
+
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary obj = new WordDictionary();
+ * obj.addWord(word);
+ * boolean param_2 = obj.search(word);
+ */
