@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 ## Queue
