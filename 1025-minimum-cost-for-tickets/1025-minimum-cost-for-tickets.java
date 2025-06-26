@@ -1,28 +1,32 @@
 class Solution {
-    public int mincostTickets(int[] days, int[] costs) {
-        int[] dp = new int[days.length]; // dp[i] = min cost from day i to end
-        Arrays.fill(dp, -1);
-        return helper(0, days, costs, dp);
+    int[] dp;
+    int[] costing;
+    int[] daying;
+    private int helper(int index){
+        if(index >= daying.length){
+            return 0;
+        }
+        if(dp[index] != -1)return dp[index];
+        int first = costing[0] + helper(index + 1);
+        int j = index;
+        while(j < daying.length && daying[j] < daying[index] + 7){
+            j++;
+        }
+        int second = costing[1] + helper(j);
+        
+        int k = index;
+        while(k < daying.length && daying[k] < daying[index] + 30){
+            k++;
+        }
+        int third = costing[2] + helper(k);
+        dp[index] = Math.min(first,Math.min(second,third));
+        return dp[index];
     }
-
-    private int helper(int i, int[] days, int[] costs, int[] dp) {
-        if (i >= days.length) return 0;
-        if (dp[i] != -1) return dp[i];
-
-        // Option 1: Buy 1-day pass
-        int cost1 = costs[0] + helper(i + 1, days, costs, dp);
-
-        // Option 2: Buy 7-day pass
-        int j = i;
-        while (j < days.length && days[j] < days[i] + 7) j++;
-        int cost7 = costs[1] + helper(j, days, costs, dp);
-
-        // Option 3: Buy 30-day pass
-        j = i;
-        while (j < days.length && days[j] < days[i] + 30) j++;
-        int cost30 = costs[2] + helper(j, days, costs, dp);
-
-        dp[i] = Math.min(cost1, Math.min(cost7, cost30));
-        return dp[i];
+    public int mincostTickets(int[] days, int[] costs) {
+        this.dp = new int[days.length];
+        this.daying = days;
+        this.costing = costs;
+        Arrays.fill(dp,-1);
+        return helper(0);
     }
 }
