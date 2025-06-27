@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1129-longest-string-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
