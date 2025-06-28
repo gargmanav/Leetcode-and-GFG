@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0650-2-keys-keyboard) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
 | [0826-soup-servings](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0830-largest-triangle-area) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
+| [0650-2-keys-keyboard](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0688-knight-probability-in-chessboard) |
