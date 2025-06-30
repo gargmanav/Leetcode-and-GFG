@@ -1,44 +1,63 @@
-import java.util.*;
+class TrieNode {
+    TrieNode[] children = new TrieNode[26];
+    boolean isEnd = false;
+    String word = null; // To store full word at end node
+}
 
 class Solution {
-    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
-        Arrays.sort(products); // Step 1: Sort lexicographically
-        List<List<String>> result = new ArrayList<>();
-        String prefix = "";
+    private TrieNode root = new TrieNode();
 
-        for (char c : searchWord.toCharArray()) {
-            prefix += c;
-
-            int start = lowerBound(products, prefix);
-            List<String> suggestions = new ArrayList<>();
-
-            for (int i = start; i < Math.min(start + 3, products.length); i++) {
-                if (products[i].startsWith(prefix)) {
-                    suggestions.add(products[i]);
-                } else {
-                    break; // No need to check further
-                }
+    private void insert(String word) {
+        TrieNode curr = root;
+        for (char ch : word.toCharArray()) {
+            int idx = ch - 'a';
+            if (curr.children[idx] == null) {
+                curr.children[idx] = new TrieNode();
             }
-
-            result.add(suggestions);
+            curr = curr.children[idx];
         }
+        curr.isEnd = true;
+        curr.word = word;
+    }
 
+    private List<String> getWordsWithPrefix(TrieNode node) {
+        List<String> result = new ArrayList<>();
+        dfs(node, result);
         return result;
     }
 
-    // Custom binary search to find first word >= prefix
-    private int lowerBound(String[] products, String prefix) {
-        int low = 0, high = products.length;
+    private void dfs(TrieNode node, List<String> result) {
+        if (node == null || result.size() == 3) return;
+        if (node.isEnd) {
+            result.add(node.word);
+        }
+        for (int i = 0; i < 26; i++) {
+            if (node.children[i] != null) {
+                dfs(node.children[i], result);
+            }
+        }
+    }
 
-        while (low < high) {
-            int mid = (low + high) / 2;
-            if (products[mid].compareTo(prefix) < 0) {
-                low = mid + 1;
+    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+        List<List<String>> res = new ArrayList<>();
+        Arrays.sort(products); // lexicographical order
+        for (String word : products) {
+            insert(word);
+        }
+
+        TrieNode curr = root;
+        for (char ch : searchWord.toCharArray()) {
+            int idx = ch - 'a';
+            if (curr != null) {
+                curr = curr.children[idx];
+            }
+            if (curr == null) {
+                res.add(new ArrayList<>());
             } else {
-                high = mid;
+                res.add(getWordsWithPrefix(curr));
             }
         }
 
-        return low;
+        return res;
     }
 }
