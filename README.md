@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1129-longest-string-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1129-longest-string-chain) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1666-make-the-string-great](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
