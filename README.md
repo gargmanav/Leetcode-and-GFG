@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
+| [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1666-make-the-string-great) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1129-longest-string-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1129-longest-string-chain) |
+| [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
+| [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2725-mice-and-cheese](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2725-mice-and-cheese) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -948,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
 ## Ordered Set
 |  |
 | ------- |
