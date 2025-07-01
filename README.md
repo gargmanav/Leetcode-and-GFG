@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0419-battleships-in-a-board](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0437-path-sum-iii) |
@@ -814,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
@@ -840,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
