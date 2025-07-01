@@ -39,7 +39,6 @@ public class Codec {
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
         String[] arr = data.split(",");
-        idx = 0; // reset for each call
         return deserialize(arr);
     }
 }
