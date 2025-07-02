@@ -1,10 +1,10 @@
 class Solution {
     private boolean canEatAll(int k, int h, int[] piles) {
         long hours = 0;
-        for (int pile : piles) {
-            hours += (pile + k - 1L) / k;  // long to avoid overflow
-        }
-        return hours <= h;
+    for (int pile : piles) {
+        hours += (long)Math.ceil((double)pile / k);
+    }
+    return hours <= h;
     }
 
     public int minEatingSpeed(int[] piles, int h) {
