@@ -1,25 +1,20 @@
 class Solution {
-    private static final int MOD = 1_000_000_007;
+    private int modulo = 1000000007;
 
-    public int countGoodNumbers(long n) {
-        long evenCount = (n + 1) / 2; // positions with even digits (0,2,4,6,8)
-        long oddCount = n / 2;        // positions with prime digits (2,3,5,7)
-
-        long evenWays = modPow(5, evenCount, MOD);
-        long oddWays = modPow(4, oddCount, MOD);
-
-        return (int)((evenWays * oddWays) % MOD);
-    }
-
-    private long modPow(long base, long exp, int mod) {
-        long result = 1;
-        base %= mod;
-        while (exp > 0) {
-            if ((exp & 1) == 1)
-                result = (result * base) % mod;
-            base = (base * base) % mod;
-            exp >>= 1;
+    public int matpow(long a,long b){
+        if(b == 0)return 1;
+        long half = matpow(a,b/2);
+        long result = (half * half) % modulo;
+        if(b % 2 == 1){
+            result = (result * a) % modulo;
         }
-        return result;
+        return (int)result;
+    }
+    public int countGoodNumbers(long n) {
+        long evenpos = (n + 1)/2;
+        long oddpos = n / 2;
+        long a = matpow(5,evenpos);
+        long b = matpow(4,oddpos);
+        return (int) ((a * b) % modulo);
     }
 }
