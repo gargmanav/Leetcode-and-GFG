@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0575-distribute-candies) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0937-online-stock-span) |
 ## Queue
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0382-linked-list-random-node) |
+| [0460-lfu-cache](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -1032,4 +1035,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0382-linked-list-random-node) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
