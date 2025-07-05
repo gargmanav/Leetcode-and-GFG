@@ -1,38 +1,35 @@
-import java.util.*;
-
 class Solution {
+    private long solve(int index, List<Integer> uniquepower, Map<Integer, Integer> map,long[] dp) {
+        if (index >= uniquepower.size()) {
+            return 0;
+        }
+        if(dp[index] != -1){
+            return dp[index];
+        }
+        int newindex = index + 1;
+
+        // FIXED BOUNDS CHECK
+        while (newindex < uniquepower.size() && 
+               uniquepower.get(newindex) <= uniquepower.get(index) + 2) {
+            newindex++;
+        }
+
+        long pick = (long) map.get(uniquepower.get(index)) * uniquepower.get(index) 
+                    + solve(newindex, uniquepower, map,dp);
+
+        long notpick = solve(index + 1, uniquepower, map,dp);
+        dp[index] = Math.max(pick, notpick);
+        return dp[index];
+    }
+
     public long maximumTotalDamage(int[] power) {
-        Map<Integer, Long> damageMap = new HashMap<>();
-
-        for (int p : power) {
-            damageMap.put(p, damageMap.getOrDefault(p, 0L) + p);
+        Map<Integer, Integer> map = new TreeMap<>();
+        for (int i : power) {
+            map.put(i, map.getOrDefault(i, 0) + 1);
         }
-
-        // Get unique sorted powers
-        List<Integer> keys = new ArrayList<>(damageMap.keySet());
-        Collections.sort(keys);
-
-        int n = keys.size();
-        long[] dp = new long[n];
-
-        dp[0] = damageMap.get(keys.get(0));
-
-        for (int i = 1; i < n; i++) {
-            int curr = keys.get(i);
-            long currDamage = damageMap.get(curr);
-
-            // Option 1: skip current
-            dp[i] = dp[i - 1];
-
-            // Option 2: take current and add dp[j] (where keys[j] <= curr - 3)
-            int j = i - 1;
-            while (j >= 0 && keys.get(j) >= curr - 2) {
-                j--;
-            }
-            long include = currDamage + (j >= 0 ? dp[j] : 0);
-            dp[i] = Math.max(dp[i], include);
-        }
-
-        return dp[n - 1];
+        long[] dp = new long[power.length];
+        Arrays.fill(dp,-1);
+        List<Integer> uniquepower = new ArrayList<>(map.keySet());
+        return solve(0, uniquepower, map,dp);
     }
 }
