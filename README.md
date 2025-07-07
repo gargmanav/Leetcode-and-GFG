@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1583-paint-house-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1583-paint-house-iii) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2725-mice-and-cheese](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2725-mice-and-cheese) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [2725-mice-and-cheese](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2725-mice-and-cheese) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
