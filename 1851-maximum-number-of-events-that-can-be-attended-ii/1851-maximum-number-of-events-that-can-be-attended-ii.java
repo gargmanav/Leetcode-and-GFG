@@ -1,42 +1,41 @@
 class Solution {
-    public int maxValue(int[][] events, int k) {
-        // Sort events by start time
-        Arrays.sort(events, (a, b) -> Integer.compare(a[0], b[0]));
-        
-        int n = events.length;
-        // Memoization table: dp[i][k]
-        int[][] dp = new int[n][k + 1];
-        for (int[] row : dp) Arrays.fill(row, -1);
-        
-        return helper(0, k, events, dp);
-    }
-    
-    private int helper(int i, int k, int[][] events, int[][] dp) {
-        if (i >= events.length || k == 0) return 0;
-        if (dp[i][k] != -1) return dp[i][k];
+    private int helper(int[][] events, int k, int index, int[][] dp){
+        if(index >= events.length || k == 0){
+            return 0;
+        }
 
-        // Binary search to find next event which starts after events[i][1]
-        int next = binarySearch(events, events[i][1] + 1);
-        
-        // 2 options: take this event or skip it
-        int take = events[i][2] + helper(next, k - 1, events, dp);
-        int skip = helper(i + 1, k, events, dp);
-        
-        dp[i][k] = Math.max(take, skip);
-        return dp[i][k];
+        if(dp[index][k] != -1){
+            return dp[index][k];
+        }
+
+        int ind = binarysearch(events, events[index][1] + 1);
+
+        int take = events[index][2] + helper(events, k - 1, ind, dp);
+        int not_take = helper(events, k, index + 1, dp);
+
+        return dp[index][k] = Math.max(take, not_take);
     }
 
-    // Find index of the first event whose start > target
-    private int binarySearch(int[][] events, int target) {
-        int low = 0, high = events.length;
-        while (low < high) {
-            int mid = (low + high) / 2;
-            if (events[mid][0] >= target) {
-                high = mid;
+    private int binarysearch(int[][] events, int target){
+        int low = 0, high = events.length - 1;
+        while(low <= high){
+            int mid = low + (high - low) / 2;
+            if(events[mid][0] >= target){
+                high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
         return low;
+    }
+
+    public int maxValue(int[][] events, int k) {
+        int n = events.length;
+        Arrays.sort(events, (a, b) -> a[0] - b[0]);
+        int[][] dp = new int[n][k + 1];
+        for(int[] row : dp){
+            Arrays.fill(row, -1);
+        }
+        return helper(events, k, 0, dp);
     }
 }
