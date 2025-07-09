@@ -1,39 +1,32 @@
 class Solution {
     public int[] gardenNoAdj(int n, int[][] paths) {
-        List<Integer>[] adj = new ArrayList[n];
-        for (int i = 0; i < n; i++) {
-            adj[i] = new ArrayList<>();
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0;i<n;i++){
+           adj.add(new ArrayList<>());
         }
-
-        // Build the graph
-        for (int[] path : paths) {
-            int a = path[0] - 1;
-            int b = path[1] - 1;
-            adj[a].add(b);
-            adj[b].add(a);
+        for(int[] arr : paths){
+            adj.get(arr[0] - 1).add(arr[1] - 1);
+            adj.get(arr[1] - 1).add(arr[0] - 1);
         }
-
-        int[] res = new int[n]; // stores flower type for each garden
-
-        for (int i = 0; i < n; i++) {
-            boolean[] used = new boolean[5]; // flower types 1 to 4
-
-            // mark the flower types used by adjacent gardens
-            for (int neighbor : adj[i]) {
-                if (res[neighbor] != 0) {
-                    used[res[neighbor]] = true;
-                }
-            }
-
-            // assign the first available flower type
-            for (int type = 1; type <= 4; type++) {
-                if (!used[type]) {
-                    res[i] = type;
-                    break;
+        int[] color = new int[n];
+        Arrays.fill(color,0);
+        for(int i = 0;i<n;i++){
+            if(color[i] == 0){
+                color[i] = 1;
+                Queue<Integer> que = new LinkedList<>();
+                que.add(i);
+                while(!que.isEmpty()){
+                    int U = que.poll();
+                    for(int V : adj.get(U)){
+                        if(color[V] == 0 || color[V] == color[U]){
+                            color[V] = color[U] + 1;
+                            que.add(V);
+                        }
+                        if(color[V] > 4)color[V] %= 4;
+                    }
                 }
             }
         }
-
-        return res;
+        return color;
     }
 }
