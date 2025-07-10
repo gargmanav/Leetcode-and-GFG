@@ -1,38 +1,34 @@
 class Solution {
     public boolean possibleBipartition(int n, int[][] dislikes) {
-        List<List<Integer>> graph = new ArrayList<>();
-        for (int i = 0; i <= n; i++) {
-            graph.add(new ArrayList<>());
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0;i<n + 1;i++){
+            adj.add(new ArrayList<>());
         }
-
-        // Build graph
-        for (int[] pair : dislikes) {
-            graph.get(pair[0]).add(pair[1]);
-            graph.get(pair[1]).add(pair[0]);
+        for(int[] arr : dislikes){
+            adj.get(arr[0]).add(arr[1]);
+            adj.get(arr[1]).add(arr[0]);
         }
+        int[] color = new int[n + 1];
+        Arrays.fill(color,-1);
 
-        int[] color = new int[n + 1]; // 0: uncolored, 1 or -1: colors
-
-        for (int i = 1; i <= n; i++) {
-            if (color[i] == 0 && !dfs(graph, color, i, 1)) {
-                return false;
+        
+        for(int i = 1;i <= n;i++){
+            Queue<Integer> que = new LinkedList<>();
+            if(color[i] == -1){
+                que.add(i);
+        color[i] = 0;
+        while(!que.isEmpty()){
+            int U = que.poll();
+            for(int V : adj.get(U)){
+                if(color[U] == color[V])return false;
+                if(color[V] == -1){
+                    que.add(V);
+                    color[V] = 1 - color[U];
+                }
             }
         }
-
-        return true;
-    }
-
-    private boolean dfs(List<List<Integer>> graph, int[] color, int node, int c) {
-        color[node] = c;
-
-        for (int neighbor : graph.get(node)) {
-            if (color[neighbor] == 0) {
-                if (!dfs(graph, color, neighbor, -c)) return false;
-            } else if (color[neighbor] == c) {
-                return false;
-            }
         }
-
-        return true;
+            }
+      return true;
     }
 }
