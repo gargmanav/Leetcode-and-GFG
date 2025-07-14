@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0494-target-sum) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0594-longest-harmonious-subsequence) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0646-maximum-length-of-pair-chain) |
