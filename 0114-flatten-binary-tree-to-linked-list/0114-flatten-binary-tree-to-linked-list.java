@@ -14,17 +14,19 @@
  * }
  */
 class Solution {
-    private TreeNode prev = null;
-
     public void flatten(TreeNode root) {
-        if (root == null) return;
-        
-        flatten(root.right); // step 1: flatten right
-        flatten(root.left);  // step 2: flatten left
-        
-        root.right = prev;   // step 3: current node's right becomes previous node
-        root.left = null;    // step 4: left is always null
-        
-        prev = root;         // step 5: move prev to current
+        if(root == null)return;
+        if(root.left != null){
+           TreeNode temp = root.right;
+           root.right = root.left;
+           TreeNode curr = root.right;
+           while(curr.right != null){
+              curr = curr.right;
+           }
+           curr.right = temp;
+           root.left = null;
+        }
+        flatten(root.left);
+        flatten(root.right);
     }
 }
