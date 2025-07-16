@@ -3,25 +3,27 @@ class Solution {
         List<Integer> less = new ArrayList<>();
         List<Integer> equal = new ArrayList<>();
         List<Integer> greater = new ArrayList<>();
-
-        // Partition the array into three parts
-        for (int num : nums) {
-            if (num < pivot) {
-                less.add(num);
-            } else if (num == pivot) {
-                equal.add(num);
-            } else {
-                greater.add(num);
-            }
+        for(int i = 0;i<nums.length;i++){
+            if(nums[i] < pivot){
+                less.add(nums[i]);
+            }else if(nums[i] > pivot){
+                greater.add(nums[i]);
+            }else equal.add(nums[i]);
         }
-
-        // Combine the lists into the result array
         int[] result = new int[nums.length];
-        int index = 0;
-        for (int num : less) result[index++] = num;
-        for (int num : equal) result[index++] = num;
-        for (int num : greater) result[index++] = num;
-
+        int count = 0;
+        for(int i = 0;i<less.size();i++){
+            result[count] = less.get(i);
+            count++;
+        }
+        for(int i = 0;i<equal.size();i++){
+            result[count] = equal.get(i);
+            count++;
+        }
+        for(int i = 0;i<greater.size();i++){
+            result[count] = greater.get(i);
+            count++;
+        }
         return result;
     }
 }
