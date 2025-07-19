@@ -9,26 +9,33 @@ class Solution {
      * Space Complexity: O(n) for the dp array plus O(|wordDict|) for the hash set.
      */
     public boolean wordBreak(String s, List<String> wordDict) {
-        // Convert the dictionary to a HashSet for O(1) look‑ups.
-        Set<String> set = new HashSet<>(wordDict);
+        // Put dictionary words into a HashSet for O(1) look‑ups.
+        Set<String> dict = new HashSet<>(wordDict);
+        // memo[i] = whether s[i..] can be segmented (null means "not computed yet").
+        Boolean[] memo = new Boolean[s.length() + 1];
+        return canBreak(0, s, dict, memo);
+    }
 
-        int n = s.length();
-        // dp[i] is true if s[0..i) can be segmented into dictionary words.
-        boolean[] dp = new boolean[n + 1];
-        dp[0] = true; // empty string is segmentable by definition
-
-        // Iterate over all prefixes of s.
-        for (int i = 1; i <= n; i++) {
-            // Try every possible split point j in the prefix s[0..i)
-            for (int j = 0; j < i; j++) {
-                // If s[0..j) is segmentable and s[j..i) is in the dict -> s[0..i) is segmentable
-                if (dp[j] && set.contains(s.substring(j, i))) {
-                    dp[i] = true;
-                    break; // early exit for current i once we find a valid split
-                }
+    /**
+     * Recursive helper that tries to segment the suffix starting at index <code>start</code>.
+     */
+    private boolean canBreak(int start, String s, Set<String> dict, Boolean[] memo) {
+        // Base case: reached the end → successful segmentation.
+        if (start == s.length()) {
+            return true;
+        }
+        // Return cached result if we've solved this sub‑problem before.
+        if (memo[start] != null) {
+            return memo[start];
+        }
+        // Try every possible end index for the first word in the remaining suffix.
+        for (int end = start + 1; end <= s.length(); end++) {
+            // If s[start..end) is a dictionary word and the rest can be segmented → success.
+            if (dict.contains(s.substring(start, end)) && canBreak(end, s, dict, memo)) {
+                return memo[start] = true;
             }
         }
-
-        return dp[n]; // answer for the whole string
+        // Exhausted all possibilities → cannot segment from this start index.
+        return memo[start] = false;
     }
 }
