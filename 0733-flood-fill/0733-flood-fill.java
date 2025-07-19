@@ -1,28 +1,22 @@
 class Solution {
-    int n,m;
-    private int[][] dir = {{0,1},{1,0},{0,-1},{-1,0}};
-    private void dfs(int[][] image, int sr, int sc, int color,int originalColor){
-        if(image[sr][sc] != originalColor){
-            return;
-        }
-        if(image[sr][sc] == originalColor){
-            image[sr][sc] = color;
-        }
-        for(int[] arr : dir){
-            int nr = sr + arr[0];
-            int nc = sc + arr[1];
-            if(nr >= 0 && nr < n && nc >= 0 && nc < m && image[nr][nc] == originalColor){
-                dfs(image,nr,nc,color,originalColor);
+    private int m,n;
+    private final int[][] directions = {{0,1},{1,0},{0,-1},{-1,0}};
+    private void dfs(int[][] image, int sr, int sc,int curr, int color){
+        if(curr == color)return;
+        image[sr][sc] = color;
+        for(int[] dir : directions){
+            int nr = sr + dir[0];
+            int nc = sc + dir[1];
+            if(nr >= 0 && nr < m && nc >= 0 && nc < n && image[nr][nc] == curr){
+                dfs(image,nr,nc,curr,color);
             }
         }
     }
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        n = image.length;
-        m = image[0].length;
-        int originalColor = image[sr][sc];
-        if(color != originalColor){
-            dfs(image,sr,sc,color,originalColor);
-        }
+    public int[][] floodFill(int[][] image, int sr, int sc, int color)  { 
+        m = image.length;
+        n = image[0].length;
+        int curr = image[sr][sc];
+        dfs(image,sr,sc,curr,color);
         return image;
     }
 }
