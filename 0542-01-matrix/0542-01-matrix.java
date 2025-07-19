@@ -1,29 +1,27 @@
 class Solution {
+    int m,n;
+    private final int[][] directions = {{0,1},{1,0},{0,-1},{-1,0}};
     public int[][] updateMatrix(int[][] mat) {
-        int n = mat.length;
-        int m = mat[0].length;
+        m = mat.length;
+        n = mat[0].length;
         Queue<int[]> que = new LinkedList<>();
-
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
+        for(int i = 0;i<m;i++){
+            for(int j = 0;j<n;j++){
                 if(mat[i][j] == 0){
                     que.add(new int[]{i,j});
+                }else{
+                    mat[i][j] = Integer.MAX_VALUE/2;
                 }
-                else mat[i][j] = Integer.MAX_VALUE;
             }
         }
-        int[][] adj = {{-1,0},{1,0},{0,-1},{0,1}};
-        
         while(!que.isEmpty()){
             int[] temp = que.poll();
-            int i = temp[0];
-            int j = temp[1];
-            for(int[] dir : adj){
-                int newX = dir[0] + i;
-                int newY = dir[1] + j;
-                if(newX >= 0 && newX < n && newY >= 0 && newY < m && mat[newX][newY] > mat[i][j] + 1){
-                    mat[newX][newY] = mat[i][j] + 1;
-                    que.add(new int[]{newX,newY}); 
+            for(int[] dir : directions){
+                int nr = temp[0] + dir[0];
+                int nc = temp[1] + dir[1];
+                if(nr >= 0 && nr < m && nc >= 0 && nc < n && mat[nr][nc] > mat[temp[0]][temp[1]] + 1){
+                   mat[nr][nc] = mat[temp[0]][temp[1]] + 1;
+                   que.add(new int[]{nr,nc});
                 }
             }
         }
