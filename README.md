@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0474-ones-and-zeroes) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0695-max-area-of-island) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
@@ -1021,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
@@ -1058,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
