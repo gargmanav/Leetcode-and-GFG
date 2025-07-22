@@ -1,15 +1,20 @@
 class Solution {
-    public int solve(int index, int[] cost, int[] dp) {
-        if (index >= cost.length) return 0;
-        if (dp[index] != -1) return dp[index];
-        return dp[index] = cost[index] + Math.min(solve(index + 1, cost, dp), solve(index + 2, cost, dp));
+    int[] memo;
+    private int findmincost(int index,int[] cost){
+        if(index < 0){
+            return 0;
+        }
+        if(memo[index] != -1){
+            return memo[index];
+        }
+        memo[index] = cost[index] + Math.min(findmincost(index - 1,cost),findmincost(index - 2,cost));
+        return memo[index];
     }
-
     public int minCostClimbingStairs(int[] cost) {
-        int n = cost.length;
-        int[] dp = new int[n + 1];
-        Arrays.fill(dp, -1);
-        return Math.min(solve(0, cost, dp), solve(1, cost, dp));
+       int n = cost.length;
+       memo = new int[n];
+       Arrays.fill(memo,-1);
+       if(n == 0 || n == 1)return cost[n];
+       return Math.min(findmincost(n - 1,cost),findmincost(n - 2,cost));
     }
 }
-
