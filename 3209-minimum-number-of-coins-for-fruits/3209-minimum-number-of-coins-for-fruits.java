@@ -1,23 +1,19 @@
 class Solution {
-    public int minimumCoins(int[] prices) {
-        int n = prices.length;
-        Integer[] dp = new Integer[n];
-        return helper(0, prices, dp);
-    }
-
-    private int helper(int i, int[] prices, Integer[] dp) {
-        int n = prices.length;
-        if (i >= n) return 0; // base case: already at or beyond the end
-        if (dp[i] != null) return dp[i];
-
-        int minCost = Integer.MAX_VALUE;
-
-        // You pay prices[i], then can jump to i+1 to 2*(i+1)
-        for (int j = i + 1; j <= Math.min(n, 2 * (i + 1)); j++) {
-            minCost = Math.min(minCost, prices[i] + helper(j, prices, dp));
+    private int findmin(int i, int[] prices,int[] memo) {
+        if (i >= prices.length) return 0;
+        if(memo[i] != -1){
+            return memo[i];
         }
-
-        dp[i] = minCost;
-        return minCost;
+       int minSum = Integer.MAX_VALUE;
+       for(int j = i + 1;j <= Math.min(prices.length,2 * (i + 1));j++){
+        minSum = Math.min(minSum,prices[i] + findmin(j,prices,memo));
+       }
+       memo[i] =  minSum;
+       return memo[i];
+    }
+    public int minimumCoins(int[] prices) {
+        int[] memo = new int[prices.length];
+        Arrays.fill(memo,-1);
+        return findmin(0, prices,memo);
     }
 }
