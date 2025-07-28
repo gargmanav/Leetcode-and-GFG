@@ -14,20 +14,23 @@
  * }
  */
 class Solution {
-    public int rob(TreeNode root) {
-        int[] result = helper(root);
-        return Math.max(result[0], result[1]);
+    private Map<TreeNode,Integer> map;
+    private int helper(TreeNode root){
+       if(root == null)return 0;
+       if(map.containsKey(root)){
+        return map.get(root);
+       }
+       int take = root.val;
+       if (root.left != null) take += helper(root.left.left) + helper(root.left.right);
+       if (root.right != null) take += helper(root.right.left) + helper(root.right.right);
+       int nottake = helper(root.left) + helper(root.right);
+       int result = Math.max(take,nottake);
+       map.put(root,result);
+       return result;
     }
-
-    private int[] helper(TreeNode node) {
-        if (node == null) return new int[2];
-
-        int[] left = helper(node.left);
-        int[] right = helper(node.right);
-
-        int robThis = node.val + left[1] + right[1]; // Rob current: cannot rob children
-        int notRobThis = Math.max(left[0], left[1]) + Math.max(right[0], right[1]); // Not rob current: choose best from children
-
-        return new int[]{robThis, notRobThis};
+    public int rob(TreeNode root) {
+        map = new HashMap<>();
+        if(root == null)return 0;
+        return helper(root);
     }
 }
