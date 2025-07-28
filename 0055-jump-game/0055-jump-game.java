@@ -5,7 +5,8 @@ class Solution {
         if(memo[index] != -1)return memo[index] == 0 ? false : true;
         boolean ans = false;
         for(int i = 1;i<=nums[index];i++){
-           ans = ans || helper(index + i,nums);
+           ans =  helper(index + i,nums);
+           if(ans)return ans;
         }
         memo[index] = ans == false ? 0 : 1;
         return ans;
