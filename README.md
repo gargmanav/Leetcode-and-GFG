@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0064-minimum-path-sum) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0135-candy) |
