@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0917-boats-to-save-people) |
+| [0945-snakes-and-ladders](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
