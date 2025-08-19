@@ -1,40 +1,32 @@
 class Solution {
-    private boolean topologicalsort(Map<Integer,ArrayList<Integer>> adj,int[] indegree,int numCourses){
-        int count = 0;
-        Queue<Integer> que = new LinkedList<>();
-        for(int i = 0;i< numCourses ;i++){
-            if(indegree[i] == 0){
-                count++;
-                que.add(i);
-            } 
-        }
-        while(!que.isEmpty()){
-            int u = que.poll();
-            
-            if (adj.containsKey(u)) {
-            for(int v : adj.get(u)){
-               indegree[v]--;
-               if(indegree[v] == 0){
-                que.add(v);
-                count++;
-               }
-            }
+    private boolean dfs(List<List<Integer>> adj,boolean[] visited,boolean[] inRecursion,int curr){
+        visited[curr] = true;
+        inRecursion[curr] = true;
+        for(int v : adj.get(curr)){
+            if(visited[v] == false && !dfs(adj,visited,inRecursion,v)){
+                return false;
+            }else if(inRecursion[v] == true){
+                return false;
             }
         }
-        return (count == numCourses);
+        inRecursion[curr] = false;
+        return true;
     }
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        Map<Integer,ArrayList<Integer>> adj = new HashMap<>();
-        int[] indegree = new int[numCourses];
-        
-        for(int[] v : prerequisites){
-            int a = v[0];
-            int b = v[1];
-
-            adj.putIfAbsent(b, new ArrayList<>());
-            adj.get(b).add(a);
-            indegree[a]++;
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0;i<numCourses;i++){
+            adj.add(new ArrayList<>());
         }
-        return topologicalsort(adj,indegree,numCourses);
+        for(int[] arr : prerequisites){
+            adj.get(arr[1]).add(arr[0]);
+        }
+        boolean[] visited  = new boolean[numCourses];
+        boolean[] inRecusion = new boolean[numCourses];
+        for(int i = 0;i < numCourses;i++){
+            if(!visited[i] && !dfs(adj,visited,inRecusion,i)){
+               return false;
+            }
+        }
+        return true;
     }
 }
