@@ -6,7 +6,7 @@ class Solution {
             if(indegree[i] == 0){
                 count++;
                 que.add(i);
-            }
+            } 
         }
         while(!que.isEmpty()){
             int u = que.poll();
