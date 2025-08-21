@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1684-find-latest-group-of-size-m](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1684-find-latest-group-of-size-m) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1500-count-largest-group) |
+| [1684-find-latest-group-of-size-m](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1684-find-latest-group-of-size-m) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1646-kth-missing-positive-number) |
+| [1684-find-latest-group-of-size-m](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1684-find-latest-group-of-size-m) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0735-asteroid-collision) |
+| [1684-find-latest-group-of-size-m](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1684-find-latest-group-of-size-m) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
