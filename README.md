@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2529-range-product-queries-of-powers) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2714-left-and-right-sum-differences) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3639-zero-array-transformation-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2671-shortest-cycle-in-a-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
