@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
