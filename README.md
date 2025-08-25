@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0371-sum-of-two-integers) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2050-count-good-numbers) |
