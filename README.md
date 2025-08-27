@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3390-minimum-rectangles-to-cover-points](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Quickselect
 |  |
 | ------- |
@@ -733,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Union Find
 |  |
 | ------- |
