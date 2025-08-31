@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3321-type-of-triangle) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2481-strictly-palindromic-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2481-strictly-palindromic-number) |
 ## Bitmask
 |  |
 | ------- |
