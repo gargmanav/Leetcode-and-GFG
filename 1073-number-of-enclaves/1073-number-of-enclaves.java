@@ -1,33 +1,35 @@
 class Solution {
-    public void dfs(int[][] grid, int i, int j, int n, int m) {
-        if (i < 0 || i >= n || j < 0 || j >= m || grid[i][j] == 0) return;
-
-        grid[i][j] = 0;
-
-        dfs(grid, i + 1, j, n, m);
-        dfs(grid, i - 1, j, n, m);
-        dfs(grid, i, j + 1, n, m);
-        dfs(grid, i, j - 1, n, m);
+    int n,m;
+    private int[][] directions = {{0,1},{1,0},{0,-1},{-1,0}};
+    private void dfs(int[][] grid,int row,int col){
+        grid[row][col] = 0;
+        for(int[] dir : directions){
+            int nr = dir[0] + row;
+            int nc = dir[1] + col;
+            if(nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] == 1){
+                dfs(grid,nr,nc);
+            }
+        }
     }
     public int numEnclaves(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        for(int i = 0;i<n;i++){
-            if(grid[i][0] == 1) dfs(grid,i,0,n,m);
-            if(grid[i][m - 1] == 1) dfs(grid,i,m - 1,n,m);
+        m = grid.length;
+        n = grid[0].length;
+        for(int i = 0;i < m;i++){
+            if(grid[i][0] == 1)dfs(grid,i,0);
+            if(grid[i][m - 1] == 1)dfs(grid,i,m - 1);
         }
-        for(int j = 0;j<m;j++){
-            if(grid[0][j] == 1) dfs(grid,0,j,n,m);
-            if(grid[n -1][j] == 1) dfs(grid,n-1,j,n,m);
+        for(int j = 0;j < n;j++){
+            if(grid[0][j] == 1)dfs(grid,0,j);
+            if(grid[0][n - 1] == 1)dfs(grid,0,n - 1);
         }
-        int totalEnclaves = 0;
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
+        int land = 0;
+        for(int i = 0;i < m;i++){
+            for(int j = 0;j < n;j++){
                 if(grid[i][j] == 1){
-                 totalEnclaves++;
+                    land++;
                 }
             }
         }
-        return totalEnclaves;
+        return land;
     }
 }
