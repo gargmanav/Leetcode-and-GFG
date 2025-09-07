@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2462-find-the-k-sum-of-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2529-range-product-queries-of-powers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2462-find-the-k-sum-of-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2725-mice-and-cheese](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2725-mice-and-cheese) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2462-find-the-k-sum-of-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2725-mice-and-cheese](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2725-mice-and-cheese) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3558-find-a-safe-walk-through-a-grid) |
