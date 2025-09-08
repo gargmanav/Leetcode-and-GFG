@@ -1,41 +1,33 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
+        int m = tasks.length;
         int[] freq = new int[26];
         for (char task : tasks) {
             freq[task - 'A']++;
         }
-
-        // Max heap by frequency
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[1] - a[1]);
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] > 0) {
-                pq.add(new int[]{i, freq[i]});
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[1] - a[1]);
+        for(int i = 0;i < 26;i++){
+            if(freq[i] > 0){
+                pq.add(new int[]{i,freq[i]});
+            }
+        }
+    Queue<int[]> que = new LinkedList<>();
+    int time = 0;
+    while(!pq.isEmpty() || !que.isEmpty()){
+        time++;
+        if(!pq.isEmpty()){
+            int[] curr = pq.poll();
+            int currfreq = curr[1] - 1;
+            if(currfreq > 0){
+                que.add(new int[]{curr[0],currfreq,time + n});
             }
         }
 
-        // Queue to keep track of cooldown -> {task, remainingFreq, availableTime}
-        Queue<int[]> coolDown = new LinkedList<>();
-        int time = 0;
-
-        while (!pq.isEmpty() || !coolDown.isEmpty()) {
-            time++;
-
-            if (!pq.isEmpty()) {
-                int[] curr = pq.poll();
-                curr[1]--; // ek kaam complete
-                if (curr[1] > 0) {
-                    // available again after n units
-                    coolDown.add(new int[]{curr[0], curr[1], time + n});
-                }
-            }
-
-            // Check if front of cooldown is ready
-            if (!coolDown.isEmpty() && coolDown.peek()[2] == time) {
-                int[] ready = coolDown.poll();
-                pq.add(new int[]{ready[0], ready[1]});
-            }
+        if(!que.isEmpty() && que.peek()[2] == time){
+            int[] curr = que.poll();
+            pq.add(new int[]{curr[0],curr[1]});
         }
-
-        return time;
+    }
+    return time;
     }
 }
