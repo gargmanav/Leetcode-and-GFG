@@ -1,29 +1,41 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
         int[] freq = new int[26];
-
-        // Step 1: Count frequency of each task
         for (char task : tasks) {
             freq[task - 'A']++;
         }
 
-        // Step 2: Find the maximum frequency
-        Arrays.sort(freq);
-        int maxFreq = freq[25];
-
-        // Step 3: Count how many tasks have this max frequency
-        int countMaxFreq = 1;
-        for (int i = 24; i >= 0; i--) {
-            if (freq[i] != maxFreq) break;
-            countMaxFreq++;
+        // Max heap by frequency
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[1] - a[1]);
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                pq.add(new int[]{i, freq[i]});
+            }
         }
 
-        // Step 4: Apply the formula
-        int partCount = maxFreq - 1;
-        int partLength = n + 1;
-        int emptySlots = partCount * partLength + countMaxFreq;
+        // Queue to keep track of cooldown -> {task, remainingFreq, availableTime}
+        Queue<int[]> coolDown = new LinkedList<>();
+        int time = 0;
 
-        // Step 5: Final answer is max of calculated time and total tasks
-        return Math.max(emptySlots, tasks.length);
+        while (!pq.isEmpty() || !coolDown.isEmpty()) {
+            time++;
+
+            if (!pq.isEmpty()) {
+                int[] curr = pq.poll();
+                curr[1]--; // ek kaam complete
+                if (curr[1] > 0) {
+                    // available again after n units
+                    coolDown.add(new int[]{curr[0], curr[1], time + n});
+                }
+            }
+
+            // Check if front of cooldown is ready
+            if (!coolDown.isEmpty() && coolDown.peek()[2] == time) {
+                int[] ready = coolDown.poll();
+                pq.add(new int[]{ready[0], ready[1]});
+            }
+        }
+
+        return time;
     }
 }
