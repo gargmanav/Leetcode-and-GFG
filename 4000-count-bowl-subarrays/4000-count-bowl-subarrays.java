@@ -10,9 +10,7 @@ class Solution {
               count++;
             }
         }
-        if(st.isEmpty() || st.peek() != num){
          st.push(num);
-        }
     }
     return count;
     }
