@@ -1,7 +1,9 @@
 class Solution {
     public int minOperations(int[] nums) {
-        Arrays.sort(nums);
-        if(nums[0] == nums[nums.length - 1])return 0;
-        return 1;
+        int n = nums.length;
+        for(int i = 1; i < n; i++) {
+            if(nums[i] != nums[0]) return 1;
+        }
+        return 0;
     }
 }
