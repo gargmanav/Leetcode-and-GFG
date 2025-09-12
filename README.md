@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0486-predict-the-winner) |
+| [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3207-make-three-strings-equal) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
 | ------- |
