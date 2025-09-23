@@ -23,10 +23,10 @@ class Solution {
                         remaining.addAll(curr.subList(0,l));
                         remaining.addAll(curr.subList(r + 1,n));
                         for(int pos = 0;pos < remaining.size();pos++){
-                          if(pos == l)continue;
-                          List<Integer> list = new ArrayList<>(remaining);
-                          list.addAll(pos,cut);
-                          if(set.add(list))q.add(list);
+                            if(pos == l)continue;
+                            List<Integer> list = new ArrayList<>(remaining);
+                            list.addAll(pos,cut);
+                            if(set.add(list))q.add(list);
                         }
                     }
                 }
