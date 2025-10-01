@@ -14,20 +14,19 @@
  * }
  */
 class Solution {
-    int count = 0;
-    int result = 0;
-    private void solve(TreeNode root,int k){
+    int count,result;
+    private void check(TreeNode root,int k){
         if(root == null)return;
-        solve(root.left,k);
+        check(root.left,k);
         count++;
-        if(k == count){
+        if(count == k){
             result = root.val;
             return;
         }
-       solve(root.right,k);
+        check(root.right,k);
     }
     public int kthSmallest(TreeNode root, int k) {
-        solve(root,k);
+        check(root,k);
         return result;
     }
 }
