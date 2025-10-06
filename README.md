@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0417-pacific-atlantic-water-flow) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0744-network-delay-time) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
@@ -1060,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0542-01-matrix) |
