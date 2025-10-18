@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3866-minimum-steps-to-convert-string-with-operations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3866-minimum-steps-to-convert-string-with-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3866-minimum-steps-to-convert-string-with-operations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3866-minimum-steps-to-convert-string-with-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3866-minimum-steps-to-convert-string-with-operations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3866-minimum-steps-to-convert-string-with-operations) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Union Find
 |  |
