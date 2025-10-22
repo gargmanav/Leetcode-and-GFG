@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
+| [3981-jump-game-ix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3981-jump-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3866-minimum-steps-to-convert-string-with-operations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3866-minimum-steps-to-convert-string-with-operations) |
+| [3981-jump-game-ix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3981-jump-game-ix) |
 ## Recursion
 |  |
 | ------- |
