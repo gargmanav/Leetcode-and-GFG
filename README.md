@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1500-count-largest-group) |
 | [1684-find-latest-group-of-size-m](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1684-find-latest-group-of-size-m) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1260,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0204-count-primes) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
