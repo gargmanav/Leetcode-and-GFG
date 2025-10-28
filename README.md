@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3981-jump-game-ix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3981-jump-game-ix) |
+| [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Greedy
 |  |
 | ------- |
