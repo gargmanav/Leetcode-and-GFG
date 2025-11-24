@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1036-rotting-oranges) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0464-can-i-win) |
 | [0823-split-array-with-same-average](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0823-split-array-with-same-average) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
