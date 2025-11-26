@@ -9,7 +9,7 @@ class Solution {
          nums[i] = sorted[right--];
        }
        for(int i = 0;i < n;i+=2){
-        nums[i] = sorted[left--];
+        nums[i] = sorted[right--];
        }
     }
 }
