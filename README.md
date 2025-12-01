@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0971-shortest-bridge) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1032-satisfiability-of-equality-equations) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
