@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3771-total-score-of-dungeon-runs) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3981-jump-game-ix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3981-jump-game-ix) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3771-total-score-of-dungeon-runs) |
 ## Counting
 |  |
 | ------- |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3771-total-score-of-dungeon-runs) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Greedy
 |  |
