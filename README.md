@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1706-min-cost-to-connect-all-points) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1753-path-with-minimum-effort](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/0813-all-paths-from-source-to-target) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
