@@ -1,19 +1,18 @@
 class Solution {
     public long minCost(String s, int[] cost) {
-        long totalCost = 0;
-        long[] keep = new long[26]; // cost sum for each character
-
-        for (int i = 0; i < s.length(); i++) {
-            int idx = s.charAt(i) - 'a';
-            keep[idx] += cost[i];
-            totalCost += cost[i];
+        int n = cost.length;
+        long[] freq = new long[26];
+        Arrays.fill(freq,0);
+        long totalcost = 0;
+        for(int i = 0;i < n;i++){
+            int ch = s.charAt(i) - 'a';
+            freq[ch] += cost[i];
+            totalcost += cost[i];
         }
-
-        long maxKeep = 0;
-        for (long val : keep) {
-            maxKeep = Math.max(maxKeep, val);
+        long maxsaved = 0;
+        for(int i = 0;i < 26;i++){
+           maxsaved = Math.max(maxsaved,freq[i]);
         }
-
-        return totalCost - maxKeep;
+        return totalcost - maxsaved;
     }
 }
