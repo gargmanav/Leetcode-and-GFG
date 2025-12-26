@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3771-total-score-of-dungeon-runs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3771-total-score-of-dungeon-runs) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3981-jump-game-ix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3981-jump-game-ix) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Backtracking
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3866-minimum-steps-to-convert-string-with-operations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3866-minimum-steps-to-convert-string-with-operations) |
 ## Divide and Conquer
 |  |
@@ -1325,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3201-distribute-candies-among-children-ii) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
 | ------- |
