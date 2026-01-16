@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2714-left-and-right-sum-differences) |
 | [2725-mice-and-cheese](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2725-mice-and-cheese) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-find-words-containing-character](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3194-find-words-containing-character) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-find-the-k-sum-of-an-array](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2725-mice-and-cheese](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2725-mice-and-cheese) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3074-apple-redistribution-into-boxes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3321-type-of-triangle) |
