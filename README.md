@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3647-zero-array-transformation-iii) |
 | [3771-total-score-of-dungeon-runs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3771-total-score-of-dungeon-runs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3805-count-caesar-cipher-pairs) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3981-jump-game-ix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3981-jump-game-ix) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3805-count-caesar-cipher-pairs) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Backtracking
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3805-count-caesar-cipher-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3805-count-caesar-cipher-pairs) |
 | [3866-minimum-steps-to-convert-string-with-operations](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3866-minimum-steps-to-convert-string-with-operations) |
 ## Divide and Conquer
 |  |
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3805-count-caesar-cipher-pairs) |
 ## Simulation
 |  |
 | ------- |
