@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3771-total-score-of-dungeon-runs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3771-total-score-of-dungeon-runs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3805-count-caesar-cipher-pairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3805-count-caesar-cipher-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3981-jump-game-ix](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3981-jump-game-ix) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3623-count-number-of-trapezoids-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3805-count-caesar-cipher-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gargmanav/Leetcode-and-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
